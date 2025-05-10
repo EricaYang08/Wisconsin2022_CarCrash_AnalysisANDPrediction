@@ -1,0 +1,13 @@
+Number,Month,Loctype,LoctypeWord,Hwyclass,HwyclassWord,Injury,InjuryWord
+1,January,I,Intersection (public roadway) ,U CITY,City Street Urban ,K,Fatal Injury 
+2,February,N,Non-intersection(public roadway) ,R CITY,City Street Rural,A,Suspected Serious Injury 
+3,March,PL,Parking lot,R TOWN,Town Road Rural,B,Suspected Minor Injury 
+4,April,PP,Private Property,U CTH,County Trunk Urban,C,Possible Injury 
+5,May,,,R CTH,County Trunk Rural,O,No Apparent Injury 
+6,June,,,U STH,State Highway Urban,,
+7,July,,,R STH,State Highway Rural,,
+8,August,,,U IH,Interstate Hwy Urban,,
+9,September,,,R IH,Interstate Hwy Rural,,
+10,October,,,P LOT,Parking Lot,,
+11,November,,,OTHR,Other,,
+12,December,,,,,,
