@@ -39,6 +39,8 @@ This project explores injury severity in Wisconsin’s 2022 motor vehicle crash 
 - Odds ratio interpretation from logistic regression
 - Sample prediction using a hypothetical crash profile
 
+Note: Due to the size of the file, please check input file `2022crashdata.csv` in zip file: Data_Source.zip
+
 ---
 
 ## Why This Project Matters
